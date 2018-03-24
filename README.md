@@ -34,6 +34,5 @@
 
 ![Sample Screen](img/simple.jpg "Simple Validation Sample")
 
-продвинутая валидация
-
+продвинутая валидация    
 ![Sample Screen](img/advanced.jpg "Advanced Validation Sample")
