@@ -31,12 +31,16 @@
 > example\test.xml
 > example\test.xsd
 =======
+>>>>>>> 1fb968869dd99970fcc9204037b9976393ff5feb
 * поставка
     **xsd_test.mdb**
     **xsd_test.pck**
 * тестовый пример xml и xsd
     **example\test.xml**
     **example\test.xsd**
+<<<<<<< HEAD
+>>>>>>> 1fb968869dd99970fcc9204037b9976393ff5feb
+=======
 >>>>>>> 1fb968869dd99970fcc9204037b9976393ff5feb
 
 # Пример работы
