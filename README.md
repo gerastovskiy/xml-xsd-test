@@ -19,19 +19,21 @@
 
 ## Содержание
 
-    поставка
+ - поставка
 
 > xsd_test.mdb
 > xsd_test.pck
 
-    тестовый пример xml и xsd
+ - тестовый пример xml и xsd
 
 > example\test.xml
 > example\test.xsd
 
 # Пример работы
 простая валидация
+
 ![Sample Screen](img/simple.jpg "Simple Validation Sample")
 
 продвинутая валидация
+
 ![Sample Screen](img/advanced.jpg "Advanced Validation Sample")
