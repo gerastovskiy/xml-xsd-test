@@ -22,7 +22,7 @@
 		</GrpHdr>
 		<ReqOrLttr>
 			<ReqOrLttrId>TESTRUMM-RQLT-20151101-00001</ReqOrLttrId>
-			<Dt>2015-11-012</Dt>
+			<Dt>2015-11-01</Dt>
 			<Sndr>
 				<Pty>
 					<Id>
@@ -57,7 +57,7 @@
 				<DocTp>NONE</DocTp>
 				<DocNb>0</DocNb>
 				<URL>RU-CMPG-title.pdf</URL>
-				<AttchdBinryFile><MIMETp>NONE</MIMETp></AttchdBinryFile>
+				<AttchdBinryFile><MIMETp>NONE</MIMETp></AttchdBinryFile><!-- не используется -->
 			</Attchmnt>
 			<SplmtryData>
 				<Envlp>
