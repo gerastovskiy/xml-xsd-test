@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+CFT-Stream-Version: 1
+CFT-Platform-IDE: 2.36.176
+CFT-Deploy-Mode: RESOURCES
+Datetime: 07/06/2022 20:16:44
+
